@@ -9,7 +9,7 @@ This project was packaged for Windows 64-bit. Better to download and run it on a
 
 ### Installing
 Clone the project with the git tool, and then launch the IceGround.exe file. 
-* Youtube video to show around the project: 
+* Youtube video to show around the project: https://youtu.be/wOjLCOKxjbo
 
 ## Acknowledgments 
 * This project was for the participation of the Unreal Engine 4 Winter Game Jam contest, but to have fun and gain experience purposes. Due to the time constraints (very short amount of times: 4 days or less) of this contest, the game did not finish what I intended and decided at the beginning of the design process, and also lacking the unreal experience and team works.
