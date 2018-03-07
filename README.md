@@ -9,6 +9,7 @@ This project was packaged for Windows 64-bit. Better to download and run it on a
 
 ### Installing
 Clone the project with the git tool, and then launch the IceGround.exe file. 
+* GLS exceeded the free user's storage limitation, better to use the bakcup (Google Drive) link: https://drive.google.com/file/d/1j7kkJ_MqC6pvYSlqDtTy6vBdZzn6hYvN/view?usp=sharing
 * Youtube video to show around the project: https://youtu.be/wOjLCOKxjbo
 
 ## Acknowledgments 
